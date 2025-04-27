@@ -1,3 +1,1 @@
-# AI_Question_Generator
-
-Built an AI interview prep guide using LangFlow, allowing users to choose difficulty levels and question types. Integrated LLMs for dynamic responses and realistic interview simulations.
+AI-powered question generator for uploaded PDFs, using LangFlow to create context-aware questionsbased on document content. Implemented text extraction and NLP techniques to ensure accurate andmeaningful question generation.
